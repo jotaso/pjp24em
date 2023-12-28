@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="1 Série A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="15"></Activity><Teacher name="Prof_Arte"></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="15"></Activity><Teacher name="Prof_Arte"></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="1"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="1"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="133"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="151"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="17"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="164"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="113"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="88"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="3"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="48"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="143"></Activity><Teacher name="Prof_Filo"></Teacher><Subject name="Filosofia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="76"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="60"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="2"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="28"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="132"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="101"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="175"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="150"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="59"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="59"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="27"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="142"></Activity><Teacher name="Prof_Filo"></Teacher><Subject name="Filosofia"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="47"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="121"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="100"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="174"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="89"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="61"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="162"></Activity><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="162"></Activity><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="112"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="120"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="165"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="62"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="18"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1 Série B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="90"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="6"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="102"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="176"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="20"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="63"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="63"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="135"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="4"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="4"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="64"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="153"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="122"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="77"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="49"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="65"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="166"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="123"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="29"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="103"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="91"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="152"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="115"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="50"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="114"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="19"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="66"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="177"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="144"></Activity><Teacher name="Prof_Filo"></Teacher><Subject name="Filosofia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="30"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="134"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="163"></Activity><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="163"></Activity><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="167"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="5"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="16"></Activity><Teacher name="Prof_Arte"></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="16"></Activity><Teacher name="Prof_Arte"></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="145"></Activity><Teacher name="Prof_Filo"></Teacher><Subject name="Filosofia"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2 Série A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="138"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="21"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="179"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="79"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="125"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="105"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="93"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="178"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="204"></Activity><Teacher name="Prof_Filo_SM"></Teacher><Subject name="Filo e SM"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="186"></Activity><Teacher name="Prof_M_Digitais"></Teacher><Subject name="M. Digitais"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="78"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="78"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="147"></Activity><Teacher name="Prof_Socio"></Teacher><Subject name="Sociologia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="197"></Activity><Teacher name="Prof_Lideranca"></Teacher><Subject name="Liderança"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="213"></Activity><Teacher name="Prof_Oratoria"></Teacher><Subject name="Oratoria"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="212"></Activity><Teacher name="Prof_Oratoria"></Teacher><Subject name="Oratoria"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="7"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="7"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="124"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="205"></Activity><Teacher name="Prof_Filo_SM"></Teacher><Subject name="Filo e SM"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="117"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="92"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="155"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="8"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="52"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="139"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="31"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="67"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="67"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="196"></Activity><Teacher name="Prof_Lideranca"></Teacher><Subject name="Liderança"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="116"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="68"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="187"></Activity><Teacher name="Prof_M_Digitais"></Teacher><Subject name="M. Digitais"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="146"></Activity><Teacher name="Prof_Socio"></Teacher><Subject name="Sociologia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="32"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="104"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="154"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="51"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2 Série B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="70"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="181"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="149"></Activity><Teacher name="Prof_Socio"></Teacher><Subject name="Sociologia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="81"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="54"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="9"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="9"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="119"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="233"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="140"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="80"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="80"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="180"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="127"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="33"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="243"></Activity><Teacher name="Prof_Empreend"></Teacher><Subject name="Empreendorismo"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="107"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="118"></Activity><Teacher name="Prof_Biologia"></Teacher><Subject name="Biologia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="69"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="69"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="34"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="148"></Activity><Teacher name="Prof_Socio"></Teacher><Subject name="Sociologia"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="250"></Activity><Teacher name="Prof_Biotecnologia"></Teacher><Subject name="Biotecnologia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="106"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="231"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="231"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="251"></Activity><Teacher name="Prof_Biotecnologia"></Teacher><Subject name="Biotecnologia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="94"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="157"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="141"></Activity><Teacher name="Prof_Quimica"></Teacher><Subject name="Quimica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="126"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="10"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="232"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="156"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="242"></Activity><Teacher name="Prof_Empreend"></Teacher><Subject name="Empreendorismo"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="22"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="53"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="95"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3 Série A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="169"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="220"></Activity><Teacher name="Prof_Geopolitica"></Teacher><Subject name="Geopolitica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="35"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="128"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="182"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="209"></Activity><Teacher name="Prof_Filo_SM"></Teacher><Subject name="Filo e SM"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="201"></Activity><Teacher name="Prof_Lideranca"></Teacher><Subject name="Liderança"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="96"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="108"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="168"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="36"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="83"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="72"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="190"></Activity><Teacher name="Prof_M_Digitais"></Teacher><Subject name="M. Digitais"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="158"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="97"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="200"></Activity><Teacher name="Prof_Lideranca"></Teacher><Subject name="Liderança"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="55"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="11"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="11"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="23"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="191"></Activity><Teacher name="Prof_M_Digitais"></Teacher><Subject name="M. Digitais"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="217"></Activity><Teacher name="Prof_Oratoria"></Teacher><Subject name="Oratoria"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="129"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="12"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="170"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="208"></Activity><Teacher name="Prof_Filo_SM"></Teacher><Subject name="Filo e SM"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="159"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="109"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="216"></Activity><Teacher name="Prof_Oratoria"></Teacher><Subject name="Oratoria"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="56"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="221"></Activity><Teacher name="Prof_Geopolitica"></Teacher><Subject name="Geopolitica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="71"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="71"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="24"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="82"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="82"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="183"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3 Série B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="14:25 -15:10">
+     
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="161"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="255"></Activity><Teacher name="Prof_Biotecnologia"></Teacher><Subject name="Biotecnologia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="173"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="237"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="237"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="26"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="110"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="111"></Activity><Teacher name="Prof_Ingles"></Teacher><Subject name="Ingles"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="246"></Activity><Teacher name="Prof_Empreend"></Teacher><Subject name="Empreendorismo"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="130"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="172"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="85"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="38"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="160"></Activity><Teacher name="Prof_P_Vida"></Teacher><Subject name="P. Vida"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="238"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="254"></Activity><Teacher name="Prof_Biotecnologia"></Teacher><Subject name="Biotecnologia"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="99"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="185"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="258"></Activity><Teacher name="Prof_Quim_Aplicada"></Teacher><Subject name="Quim. Aplicada"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="37"></Activity><Teacher name="Prof_Hist"></Teacher><Subject name="Historia"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="14"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="131"></Activity><Teacher name="Prof_Fisica"></Teacher><Subject name="Fisica"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="57"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="73"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="73"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="259"></Activity><Teacher name="Prof_Quim_Aplicada"></Teacher><Subject name="Quim. Aplicada"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="13"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="13"></Activity><Teacher name="Prof_L_Port"></Teacher><Subject name="L. Port"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="98"></Activity><Teacher name="Prof_Redacao"></Teacher><Subject name="Redação"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="239"></Activity><Teacher name="Prof_Tecn_Robot"></Teacher><Subject name="Tecn. Robot"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     <Activity id="25"></Activity><Teacher name="Prof_Ed_Fisica"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="14:25 -15:10">
+     <Activity id="171"></Activity><Teacher name="Prof_Ace_Vest"></Teacher><Subject name="A. Vestibular"></Subject>
+    </Hour>
+    <Hour name="15:10 - 15:55">
+     <Activity id="184"></Activity><Teacher name="Prof_Ed_Financ"></Teacher><Subject name="Ed. Financeira"></Subject>
+    </Hour>
+    <Hour name="15:55 - 16:40">
+     <Activity id="58"></Activity><Teacher name="Prof_Geog"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="16:40 - 16:55">
+     
+    </Hour>
+    <Hour name="16:55 - 17:40">
+     <Activity id="74"></Activity><Teacher name="Prof_Mat"></Teacher><Subject name="Matematica"></Subject>
+    </Hour>
+    <Hour name="17:40 - 18:25">
+     <Activity id="84"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="18:25 - 19:10">
+     <Activity id="84"></Activity><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="19:10 - 19:55">
+     
+    </Hour>
+    <Hour name="19:55 - 20:40">
+     <Activity id="247"></Activity><Teacher name="Prof_Empreend"></Teacher><Subject name="Empreendorismo"></Subject>
+    </Hour>
+    <Hour name="20:40 - 21:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
